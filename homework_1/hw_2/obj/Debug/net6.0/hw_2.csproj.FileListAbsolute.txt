@@ -1,0 +1,15 @@
+C:\Dmitriy\Projects\csharp\hw_2\bin\Debug\net6.0\hw_2.exe
+C:\Dmitriy\Projects\csharp\hw_2\bin\Debug\net6.0\hw_2.deps.json
+C:\Dmitriy\Projects\csharp\hw_2\bin\Debug\net6.0\hw_2.runtimeconfig.json
+C:\Dmitriy\Projects\csharp\hw_2\bin\Debug\net6.0\hw_2.dll
+C:\Dmitriy\Projects\csharp\hw_2\bin\Debug\net6.0\hw_2.pdb
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.csproj.AssemblyReference.cache
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.AssemblyInfoInputs.cache
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.AssemblyInfo.cs
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.csproj.CoreCompileInputs.cache
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.dll
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\refint\hw_2.dll
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.pdb
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\hw_2.genruntimeconfig.cache
+C:\Dmitriy\Projects\csharp\hw_2\obj\Debug\net6.0\ref\hw_2.dll
