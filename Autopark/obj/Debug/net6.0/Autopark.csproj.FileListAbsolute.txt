@@ -1,0 +1,15 @@
+C:\Dmitriy\Projects\csharp\Autopark\bin\Debug\net6.0\Autopark.exe
+C:\Dmitriy\Projects\csharp\Autopark\bin\Debug\net6.0\Autopark.deps.json
+C:\Dmitriy\Projects\csharp\Autopark\bin\Debug\net6.0\Autopark.runtimeconfig.json
+C:\Dmitriy\Projects\csharp\Autopark\bin\Debug\net6.0\Autopark.dll
+C:\Dmitriy\Projects\csharp\Autopark\bin\Debug\net6.0\Autopark.pdb
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.csproj.AssemblyReference.cache
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.AssemblyInfoInputs.cache
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.AssemblyInfo.cs
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.csproj.CoreCompileInputs.cache
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.dll
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\refint\Autopark.dll
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.pdb
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\Autopark.genruntimeconfig.cache
+C:\Dmitriy\Projects\csharp\Autopark\obj\Debug\net6.0\ref\Autopark.dll
