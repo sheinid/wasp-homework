@@ -7,7 +7,7 @@
 
 Название          | Статус | Ссылка
 ------------------|--------|--------
-Автопарк          |  🟡   | <a href="https://github.com/sheinid/wasp-homework/tree/main/Autopark">Перейти</a>
+Автопарк          |  🟢   | <a href="https://github.com/sheinid/wasp-homework/tree/main/Autopark">Перейти</a>
 Магазин музыкальных дисков | 🟡 | <a href="https://github.com/sheinid/wasp-homework/tree/main/MusicStore">Перейти</a>
 
 **Статусы выполнения:** <br>
